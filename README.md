@@ -1,2 +1,2 @@
-# Coursera_Capstone_dimple
+# Coursera_Capstone
 IBM data science course capstone Assignment 

@@ -8,6 +8,7 @@ The data used for this week's assignemnet is Car accident severiaty data provide
 Data Understanding:
 The accident occurs depending on three factors , weather conditions, road conditions, and light conditions.
 
+
 Methodology:
 The CSv is used for supervised classification. Features used are , the columns 'weather,roadcond, lightcond' and the target variable used is 'severitycode' column.
 Decision tree, KNN and logistic regresion can be used to classifiy accident severity.

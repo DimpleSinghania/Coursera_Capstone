@@ -1,10 +1,14 @@
 Introduction/Business Problem:
 
-To monitor the conditions which can lead to accidents, an algorithm needs to be developed.This algorithm can help in deciding the severity of the accident and damagecaused to the individual and the vehicle nd plan insuarance policy based on that.
-
+To monitor the conditions which can lead to accidents, an algorithm needs to be developed.This algorithm can help in deciding the severity of the accident and damagecaused to the individual and the vehicle and plan insuarance policy based on that.
+A method needs to be devised to know the causes of accidents and reduce the causation. This can help the highway authorities to check and monitor accident severity and also develop ways to reduce them to certain extent.
 Dataset used:
-The data used for this week's assignemnet is Car accident severiaty data provided in week- 1 sample data.
+The data used for this week's assignemnet is Car accident severiaty data provided in week- 1 sample data. 
+
+Data Understanding:
+The accident occurs depending on three factors , weather conditions, road conditions, and light conditions.
 
 Methodology:
 The CSv is used for supervised classification. Features used are , the columns 'weather,roadcond, lightcond' and the target variable used is 'severitycode' column.
+Decision tree, KNN and logistic regresion can be used to classifiy accident severity.
 
